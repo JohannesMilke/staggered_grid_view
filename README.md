@@ -1,6 +1,6 @@
 # Flutter - StaggeredGridView
 
-We complete the design challenge by integrating a StaggeredGridView into our application.. A Flutter application which runs on iOS, Android & Fuchsia.
+We complete the design challenge by integrating a StaggeredGridView into our application. A Flutter application which runs on iOS, Android & Fuchsia.
 
 
 Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
