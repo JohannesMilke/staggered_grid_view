@@ -1,16 +1,15 @@
-# january6_staggered_grid_view
+# Flutter - StaggeredGridView
 
-A new Flutter project.
+We complete the design challenge by integrating a StaggeredGridView into our application.. A Flutter application which runs on iOS, Android & Fuchsia.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-A few resources to get you started if this is your first Flutter project:
+Medium: https://medium.com/@johannesmilke 
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+##### [YouTube video](http://www.youtube.com/watch?v=S6J_JKxJW9A "Youtube Johannes Milke") where the *source code* is explained. [Subscribe to our YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S6J_JKxJW9A
+" target="_blank"><img src="http://img.youtube.com/vi/S6J_JKxJW9A/maxresdefault.jpg" 
+alt="Flutter - StaggeredGridView YouTube video" width="480" height="270" border="10" /></a>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+#### If you are new to Flutter and want to get started --> [Install Flutter](https://flutter.io/docs/get-started/install "Install Flutter").
